@@ -3,3 +3,6 @@ target/
 dbt_packages/
 logs/
 **/.DS_Store
+.user.yml
+models/_sources
+profiles.yml
